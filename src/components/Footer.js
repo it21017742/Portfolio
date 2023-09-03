@@ -16,7 +16,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/it21085444"
+                href="https://github.com/it21017742"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -26,7 +26,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/sazii_fdo"
+                href="https://twitter.com/Dushaa99"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -36,7 +36,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/sasindufdo/"
+                href="https://www.linkedin.com/in/dushan-rathnakumara-130105259/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -46,7 +46,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/_sasindude_/"
+                href="https://www.instagram.com/_blaze__99/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

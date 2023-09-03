@@ -22,8 +22,8 @@ function Projects() {
               isBlog={false}
               title="TestTopic"
               description="Yet to add the description. Still testing. buttons not working"
-              ghLink="https://github.com/it21085444"
-              demoLink="https://github.com/it21085444"
+              ghLink="https://github.com/it21017742"
+              demoLink="https://github.com/it21017742"
             />
           </Col>
 
